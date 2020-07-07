@@ -21,7 +21,7 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: # '@webjeda'
-    stack-overflow: user:992687/The Unfun Cat # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 992687 # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -72,6 +72,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
     - degree: BSc in Mathematics & Informatics
       university: Norwegian University of Science and Technology
       time: 2009 - 2012
@@ -83,44 +84,22 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Bioinformatics Programmer
+      time: 2014-2015
+      company: Bioinformatics Core Facility, NTNU
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Wrote a pipeline for Mina Therapeutics that ran a proprietary
+        machine-learning algorithm for predicting effective siRNA
+        against every gene in the human genome.
+
+    - role: Pipeline developer
+      time: 2018-2019
+      company: HUNT (The Trøndelag Health Study)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Wrote Snakemake-pipelines to extract and analyze GWAS-data for the HUNT biobank.
+
 projects:
     title: Projects
     intro: >
@@ -128,25 +107,25 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: pyranges
+        link: "https://github.com/biocore-ntnu/pyranges"
+        tagline: "An efficient Python-implementation of the GenomicRanges data-structure."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: pyrle
+        link: "https://github.com/pyranges/pyrle"
+        tagline: "An efficient and user-friendly implementation of Run Length Encodings in Python. Inspired by the R S4Vectors object."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: NCLS
+        link: "https://github.com/biocore-NTNU/ncls"
+        tagline: "An implementation of the Nested Containment List (NCList) compatible with the Python Science Stack."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: epic2
+        link: "https://github.com/biocore-ntnu/epic2"
+        tagline: "An ultraperformant implementation of the popular SICER algorithm for finding diffusely enriched domains in ChIP-Seq data."
 
-      - title: Delta
+      - title: Everflow
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Workflow management system focused on making large and complex pipelines easy to write, modify, and understand."
 
 publications:
     title: Publications
