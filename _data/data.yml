@@ -7,21 +7,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Endre Bakken Stovner
+    tagline: Bioinformatics programmer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: endrebak85@gmail.com
+    phone: +047 95040588
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin:
+    github: endrebak
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: # '@webjeda'
+    stack-overflow: user:992687/The Unfun Cat # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a computer scientist with an interest in efficient and reproducible bioinformatics data analysis.
+      I am a computer scientist interested in reproducible bioinformatics data analysis.
       I did my Ph.D. in Pål Sætroms bioinformatics group at the Norwegian University of Science and Technology.
 
 education:
@@ -174,22 +174,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python/Cython & The Python Science Stack
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Evil Emacs
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Snakemake
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Clojure & Clojurescript
+        level: 75%
 
-      - name: Sketch & Photoshop
+      - name: Git
         level: 60%
 
 footer: >
