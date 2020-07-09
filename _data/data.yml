@@ -42,10 +42,13 @@ sidebar:
       - item: Cats
         link:
 
+      - item: Effective Altruism
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
-      I am a computer scientist interested in reproducible bioinformatics data analysis.
+      I am a computer scientist interested in bioinformatics, reproducible data analysis, and functional programming.
       I did my Ph.D. in Pål Sætroms bioinformatics group at the Norwegian University of Science and Technology.
 
 education:
