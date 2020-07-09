@@ -129,12 +129,12 @@ publications:
     intro: |
       ""
     papers:
-      - title: epic2 Efficiently Finds Diffuse Domains in ChIP-seq Data
+      - title: "epic2 Efficiently Finds Diffuse Domains in ChIP-seq Data"
         link: "https://doi.org/10.1093/bioinformatics/btz615"
         authors: Endre Bakken Stovner & Pål Sætrom
         conference: Bioinformatics
 
-      - title: PyRanges: Efficient Comparison of Genomic Intervals in Python
+      - title: "PyRanges: Efficient Comparison of Genomic Intervals in Python"
         link: "https://doi.org/10.1093/bioinformatics/btz232"
         authors: Endre Bakken Stovner & Pål Sætrom
         conference: Bioinformatics
