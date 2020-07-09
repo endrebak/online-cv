@@ -125,10 +125,6 @@ projects:
         link: "https://github.com/biocore-ntnu/epic2"
         tagline: "An ultraperformant implementation of the popular SICER algorithm for finding diffusely enriched domains in ChIP-Seq data."
 
-      # - title: Everflow
-      #   link: "#"
-      #   tagline: "Workflow management system focused on making large and complex pipelines easy to write, modify, and understand."
-
 publications:
     title: Publications
     intro: |
