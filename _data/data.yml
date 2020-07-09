@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: endrebak85@gmail.com
     phone: +047 95040588
-    website: endrebak.github.io/online-cv/ #do not add http://
+    website: scholar.google.com/citations?hl=en&user=tYMESakAAAAJ #do not add http://
     linkedin:
     github: endrebak
     telegram: # add your nickname without '@' sign
@@ -126,7 +126,10 @@ projects:
 
 publications:
     title: Publications
-    intro: |
+    intro: null
+
+    # For all publications, please see my Google Scholar Profile
+
     papers:
       - title: "epic2 Efficiently Finds Diffuse Domains in ChIP-seq Data"
         link: "https://doi.org/10.1093/bioinformatics/btz615"
