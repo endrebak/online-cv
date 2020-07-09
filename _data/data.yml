@@ -89,6 +89,13 @@ education:
           - Bullet point
 
 experiences:
+
+    - role: Pipeline developer
+      time: 2018-2019
+      company: HUNT (The Trøndelag Health Study)
+      details: |
+        Wrote Snakemake-pipelines to extract and analyze GWAS-data for the HUNT biobank.
+
     - role: Bioinformatics Programmer
       time: 2014-2015
       company: Bioinformatics Core Facility, NTNU
@@ -96,12 +103,6 @@ experiences:
         Wrote a pipeline for Mina Therapeutics that ran a proprietary
         machine-learning algorithm for predicting effective siRNA
         against every gene in the human genome.
-
-    - role: Pipeline developer
-      time: 2018-2019
-      company: HUNT (The Trøndelag Health Study)
-      details: |
-        Wrote Snakemake-pipelines to extract and analyze GWAS-data for the HUNT biobank.
 
 projects:
     title: Projects
