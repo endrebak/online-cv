@@ -106,9 +106,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      #
+
     assignments:
       - title: pyranges
         link: "https://github.com/biocore-ntnu/pyranges"
@@ -126,31 +125,24 @@ projects:
         link: "https://github.com/biocore-ntnu/epic2"
         tagline: "An ultraperformant implementation of the popular SICER algorithm for finding diffusely enriched domains in ChIP-Seq data."
 
-      - title: Everflow
-        link: "#"
-        tagline: "Workflow management system focused on making large and complex pipelines easy to write, modify, and understand."
+      # - title: Everflow
+      #   link: "#"
+      #   tagline: "Workflow management system focused on making large and complex pipelines easy to write, modify, and understand."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      #
     papers:
-      - title: The Art of Computer Programming
+      - title: epic2 Efficiently Finds Diffuse Domains in ChIP-seq Data
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Endre Bakken Stovner & Pål Sætrom
+        conference: Bioinformatics
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: PyRanges: Efficient Comparison of Genomic Intervals in Python
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Endre Bakken Stovner & Pål Sætrom
+        conference: Bioinformatics
 
 skills:
     title: Skills &amp; Proficiency
