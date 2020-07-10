@@ -52,7 +52,7 @@ career-profile:
     title: Career Profile
     summary: |
       I am a bioinformatics programmer and computer scientist interested in web technology, functional programming, and reproducible data analysis.
-      I did my Ph.D. in Pål Sætroms bioinformatics group at the Norwegian University of Science and Technology.
+      I did my Ph.D. (submitted) in Pål Sætroms bioinformatics group at the Norwegian University of Science and Technology.
 
 education:
     - degree: Ph.D. in Computer Science
@@ -132,12 +132,12 @@ publications:
     intro: "For all publications, please see my <a href='https://scholar.google.com/citations?hl=en&user=tYMESakAAAAJ'>Google Scholar Profile</a>."
     papers:
       - title: "epic2 Efficiently Finds Diffuse Domains in ChIP-seq Data"
-        link: "https://doi.org/10.1093/bioinformatics/btz615"
+        link: "https://doi.org/10.1093/bioinformatics/btz232"
         authors: Endre Bakken Stovner & Pål Sætrom
         conference: Bioinformatics
 
       - title: "PyRanges: Efficient Comparison of Genomic Intervals in Python"
-        link: "https://doi.org/10.1093/bioinformatics/btz232"
+        link: "https://doi.org/10.1093/bioinformatics/btz615"
         authors: Endre Bakken Stovner & Pål Sætrom
         conference: Bioinformatics
 
@@ -162,6 +162,9 @@ skills:
 
       - name: Clojure & Clojurescript
         level: 75%
+
+      - name: R
+        level: 60%
 
       - name: Git
         level: 60%
