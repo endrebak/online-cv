@@ -126,9 +126,9 @@ projects:
 
 publications:
     title: Publications
-    intro: null
+    intro:
 
-    # For all publications, please see my Google Scholar Profile
+    "For all publications, please see my Google Scholar Profile"
 
     papers:
       - title: "epic2 Efficiently Finds Diffuse Domains in ChIP-seq Data"
@@ -145,7 +145,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python/Cython & The Python Science Stack
+      - name: Python & The Python Science Stack
         level: 98%
 
       - name: Evil Emacs
@@ -154,11 +154,35 @@ skills:
       - name: Snakemake
         level: 95%
 
+      - name: UNIX
+        level: 90%
+
+      - name: Cython
+        level: 75%
+
       - name: Clojure & Clojurescript
         level: 75%
 
       - name: Git
         level: 60%
+
+      - name: Django
+        level: 50%
+
+      - name: C
+        level: 50%
+
+      - name: SQL
+        level: 50%
+
+      - name: JavaScript
+        level: 40%
+
+      - name: Rust
+        level: 20%
+
+      - name: C++
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
