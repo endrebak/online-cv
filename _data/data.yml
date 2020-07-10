@@ -182,6 +182,6 @@ skills:
         level: 20%
 
 footer: >
-  <div class="no-print">
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-  </div>
+  # <div class="no-print">
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>. <br> <a href="https://github.com/sharu725/online-cv">Use theme?</a>
+  # </div>
