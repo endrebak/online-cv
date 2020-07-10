@@ -7,10 +7,10 @@
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
 
-@media print
-{
-    .no-print, .no-print *
-    {
-        display: none !important;
-    }
-}
+/* @media print */
+/* { */
+/*     .no-print, .no-print * */
+/*     { */
+/*         display: none !important; */
+/*     } */
+/* } */
