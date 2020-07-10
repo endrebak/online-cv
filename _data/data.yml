@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: endrebak85@gmail.com
     phone: +047 95040588
-    website: scholar.google.com/citations?hl=en&user=tYMESakAAAAJ #do not add http://
+    website: https://endrebak.github.io/online-cv/ #do not add http://
     linkedin:
     github: endrebak
     telegram: # add your nickname without '@' sign
@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a computer scientist interested in bioinformatics, functional programming, and reproducible data analysis.
+      I am a programmer and computer scientist interested in bioinformatics, functional programming, and reproducible data analysis.
       I did my Ph.D. in Pål Sætroms bioinformatics group at the Norwegian University of Science and Technology.
 
 education:
@@ -126,7 +126,7 @@ projects:
 
 publications:
     title: Publications
-    intro: "For all publications, please see my Google Scholar Profile"
+    intro: "For all publications, please see my <a href='https://scholar.google.com/citations?hl=en&user=tYMESakAAAAJ'>Google Scholar Profile.</a>"
     papers:
       - title: "epic2 Efficiently Finds Diffuse Domains in ChIP-seq Data"
         link: "https://doi.org/10.1093/bioinformatics/btz615"
