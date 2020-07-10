@@ -116,7 +116,7 @@ projects:
         link: "https://github.com/pyranges/pyrle"
         tagline: "An efficient and user-friendly implementation of Run Length Encodings in Python. Inspired by the R S4Vectors object."
 
-      - title: NCLS
+      - title: ncls
         link: "https://github.com/biocore-NTNU/ncls"
         tagline: "An implementation of the Nested Containment List (NCList) compatible with the Python Science Stack."
 
@@ -182,4 +182,8 @@ skills:
         level: 20%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  '
+  <div class="no-print">
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  </div>
+  '
