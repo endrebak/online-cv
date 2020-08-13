@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Endre Bakken Stovner
@@ -51,8 +51,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a bioinformatics programmer and computer scientist interested in web technology, functional programming, and reproducible data analysis.
-      I did my Ph.D. (submitted) in Pål Sætroms bioinformatics group at the Norwegian University of Science and Technology.
+      I am a programmer and computer scientist interested in web technology,
+      functional programming, and reproducible data analysis. I did my Ph.D.
+      (submitted) in Pål Sætroms bioinformatics group at the Norwegian
+      University of Science and Technology.
 
 education:
     - degree: Ph.D. in Computer Science (Submitted July, 2020)
@@ -97,7 +99,7 @@ experience:
       time: 2018-2019
       company: HUNT (The Trøndelag Health Study)
       details: |
-        Wrote Snakemake-pipelines to extract and analyze GWAS-data for the HUNT biobank.
+        Wrote Snakemake-pipelines to extract and analyze GWAS-data for the HUNT biobank. 
 
     - role: Bioinformatics Programmer
       time: 2014-2015
