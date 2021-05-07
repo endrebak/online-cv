@@ -95,6 +95,12 @@ education:
 
 experience:
 
+    - role: Verification Engineer
+      time: 2020-Present
+      company: ARM
+      details: |
+        Scala developer. 
+
     - role: Pipeline developer
       time: 2018-2019
       company: HUNT (The Trøndelag Health Study)
